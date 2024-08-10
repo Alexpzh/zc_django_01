@@ -159,6 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea/
 settings.py
 =======
@@ -167,3 +168,7 @@ settings.py
 =======
 #.idea/
 >>>>>>> parent of 32dbdfe (Django 1)
+=======
+.idea/
+settings.py
+>>>>>>> parent of 64e0a94 (Revert "Dj1")
